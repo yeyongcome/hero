@@ -1,0 +1,3 @@
+表单填写进度提示效果
+
+Fort.js 是一款用于时尚、现代的表单填写进度提示效果的 JavaScript 库，你需要做的就是添加表单，剩下的任务就交给 Fort.js 算法了，使用非常简单。提供了Default、Gradient、Sections 以及 Flash 四种效果，满足开发的各种场合需要。
